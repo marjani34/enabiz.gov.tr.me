@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/enabiz.gov.tr.me/static/css/main.ebc6e556.chunk.css",
+    "main.js": "/enabiz.gov.tr.me/static/js/main.b0182fdf.chunk.js",
+    "main.js.map": "/enabiz.gov.tr.me/static/js/main.b0182fdf.chunk.js.map",
+    "runtime-main.js": "/enabiz.gov.tr.me/static/js/runtime-main.ca16b563.js",
+    "runtime-main.js.map": "/enabiz.gov.tr.me/static/js/runtime-main.ca16b563.js.map",
+    "static/js/2.95f70925.chunk.js": "/enabiz.gov.tr.me/static/js/2.95f70925.chunk.js",
+    "static/js/2.95f70925.chunk.js.map": "/enabiz.gov.tr.me/static/js/2.95f70925.chunk.js.map",
+    "static/js/3.e72ed697.chunk.js": "/enabiz.gov.tr.me/static/js/3.e72ed697.chunk.js",
+    "static/js/3.e72ed697.chunk.js.map": "/enabiz.gov.tr.me/static/js/3.e72ed697.chunk.js.map",
+    "index.html": "/enabiz.gov.tr.me/index.html",
+    "static/css/main.ebc6e556.chunk.css.map": "/enabiz.gov.tr.me/static/css/main.ebc6e556.chunk.css.map",
+    "static/js/2.95f70925.chunk.js.LICENSE.txt": "/enabiz.gov.tr.me/static/js/2.95f70925.chunk.js.LICENSE.txt",
+    "static/media/checkmark.86776eae.png": "/enabiz.gov.tr.me/static/media/checkmark.86776eae.png",
+    "static/media/enabiz-logo-giris-eng.ede875db.png": "/enabiz.gov.tr.me/static/media/enabiz-logo-giris-eng.ede875db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca16b563.js",
+    "static/js/2.95f70925.chunk.js",
+    "static/css/main.ebc6e556.chunk.css",
+    "static/js/main.b0182fdf.chunk.js"
+  ]
+}
